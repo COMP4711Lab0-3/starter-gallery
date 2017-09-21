@@ -3,7 +3,7 @@
 Team membership:  Hsien-Chia (Eric) Lin (Captain) & Jason Sekhon (Mate)  
 Team conventions: Allman notation 
 
-## *Version 1.0*
+## *Version 1.2*
 
 Release Date: Sept 21, 2017
 
@@ -15,3 +15,4 @@ Release Date: Sept 21, 2017
 
 *updated menu links to point to controllers
 
+*updated/simplified about, gallery and welcome views/controllers
